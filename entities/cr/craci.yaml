@@ -56,7 +56,7 @@ offers:
     eligibility:
       rule:
         kind: manual
-        criterion_id: cri_work_email
+        criterion_id: cri_startup_program
         reason: not-machine-evaluable
         statement: Eligible startups get a minimum of 100k free build minutes and hands on onboarding from our team.
     roles:
